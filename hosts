@@ -1,0 +1,1 @@
+192.168.3.1 ansible_user=test ansible_ssh_pass=test ansible_become_method=su
